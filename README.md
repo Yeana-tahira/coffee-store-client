@@ -1,3 +1,5 @@
+Developed a full-stack Coffee Store Management System using React (Vite), Node.js, Express.js, and MongoDB. Designed and implemented RESTful APIs to handle CRUD operations for coffee items. Built a dynamic frontend with React and managed routing using React Router. Connected the frontend with backend APIs and handled data storage in MongoDB.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
